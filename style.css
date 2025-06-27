@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    color: #222;
+}
+header {
+    background: #0056b3;
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+.brand {
+    color: #ffd700;
+    font-weight: bold;
+}
+main {
+    max-width: 600px;
+    margin: 2rem auto;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #e9ecef;
+    color: #555;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+a[rel="dofollow"] {
+    color: #0056b3;
+    text-decoration: underline;
+    font-weight: bold;
+} 
